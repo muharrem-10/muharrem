@@ -24,4 +24,4 @@ jobs:
           SHOW_MASKED_TIME: false 
           IGNORED_LANGUAGES: YAML JSON TOML 
           AUTHOR_NAME: Muharrem-10 
-          AUTHOR_EMAIL: muharrem2001bahceci@gmail.com@gmail.com
+          AUTHOR_EMAIL: muharrem2001bahceci@gmail.com
