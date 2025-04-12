@@ -23,5 +23,5 @@ jobs:
           SHOW_TOTAL: true 
           SHOW_MASKED_TIME: false 
           IGNORED_LANGUAGES: YAML JSON TOML 
-          AUTHOR_NAME: Leonardo Grigorio Araujo 
-          AUTHOR_EMAIL: leonardogrig@gmail.com
+          AUTHOR_NAME: Muharrem-10 
+          AUTHOR_EMAIL: muharrem2001bahceci@gmail.com@gmail.com
