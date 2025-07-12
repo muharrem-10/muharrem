@@ -3,17 +3,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 April 2025 - To: 09 July 2025
+From: 11 April 2025 - To: 10 July 2025
 
-Total Time: 196 hrs 27 mins
+Total Time: 199 hrs 26 mins
 
-JavaScript    125 hrs 18 mins ████████████████░░░░░░░░░   63.45 %
-TypeScript    54 hrs 33 mins  ███████░░░░░░░░░░░░░░░░░░   27.62 %
-Bash          5 hrs 17 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
-Liquid        2 hrs 13 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-Python        1 hr 13 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
-Other         1 hr 1 min      ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-Docker        38 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+JavaScript    127 hrs 46 mins ████████████████░░░░░░░░░   63.71 %
+TypeScript    54 hrs 48 mins  ██████▓░░░░░░░░░░░░░░░░░░   27.33 %
+Bash          5 hrs 33 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+Liquid        2 hrs 13 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+Python        1 hr 13 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+Other         1 hr 6 mins     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+Docker        38 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 CSS           35 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 Prisma        21 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
