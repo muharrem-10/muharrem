@@ -3,14 +3,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 April 2025 - To: 31 August 2025
+From: 11 April 2025 - To: 01 September 2025
 
-Total Time: 320 hrs 24 mins
+Total Time: 322 hrs 20 mins
 
-JavaScript    177 hrs 50 mins █████████████▓░░░░░░░░░░░   54.93 %
-TypeScript    119 hrs 37 mins █████████▒░░░░░░░░░░░░░░░   36.95 %
-Bash          7 hrs 35 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
-Other         3 hrs 20 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+JavaScript    179 hrs 4 mins  █████████████▓░░░░░░░░░░░   54.99 %
+TypeScript    120 hrs 9 mins  █████████▒░░░░░░░░░░░░░░░   36.89 %
+Bash          7 hrs 35 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+Other         3 hrs 20 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
 Liquid        2 hrs 13 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
 Python        1 hr 31 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 Git Config    53 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
