@@ -3,16 +3,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 April 2025 - To: 23 September 2025
+From: 11 April 2025 - To: 25 September 2025
 
-Total Time: 367 hrs 21 mins
+Total Time: 375 hrs 29 mins
 
-JavaScript    199 hrs 41 mins █████████████▒░░░░░░░░░░░   53.83 %
-TypeScript    143 hrs 7 mins  █████████▓░░░░░░░░░░░░░░░   38.58 %
-Bash          8 hrs 3 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
-Other         3 hrs 34 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
-Liquid        2 hrs 13 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-Python        1 hr 31 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+JavaScript    200 hrs 5 mins  █████████████▒░░░░░░░░░░░   52.79 %
+TypeScript    150 hrs 49 mins ██████████░░░░░░░░░░░░░░░   39.79 %
+Bash          8 hrs 3 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+Other         3 hrs 34 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+Liquid        2 hrs 13 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+Python        1 hr 31 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 Git Config    53 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 Docker        51 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
