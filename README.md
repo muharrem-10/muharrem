@@ -3,12 +3,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 April 2025 - To: 09 October 2025
+From: 11 April 2025 - To: 10 October 2025
 
-Total Time: 402 hrs 51 mins
+Total Time: 403 hrs 49 mins
 
-JavaScript    201 hrs 54 mins ████████████▒░░░░░░░░░░░░   49.62 %
-TypeScript    175 hrs 36 mins ██████████▓░░░░░░░░░░░░░░   43.16 %
+JavaScript    201 hrs 54 mins ████████████▒░░░░░░░░░░░░   49.50 %
+TypeScript    176 hrs 35 mins ██████████▓░░░░░░░░░░░░░░   43.29 %
 Bash          8 hrs 8 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
 Other         4 hrs 4 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 Liquid        2 hrs 13 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
